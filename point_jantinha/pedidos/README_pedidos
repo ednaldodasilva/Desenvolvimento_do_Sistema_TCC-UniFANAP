@@ -1,0 +1,1 @@
+//O diretório "pedidos" serve para gerenciar os pedidos realizados pelos clientes. Cada pedido é uma combinação de vários itens, e este diretório cuida das operações relacionadas ao pedido como um todo. 
